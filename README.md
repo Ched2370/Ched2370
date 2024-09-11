@@ -8,7 +8,7 @@ Apasionado estudiante en desarrollo de software 💻.
 
 <!-- TODO: Add last video link -->
 
-- :seedling: Actualmente estudio soy estudiante en la tecnicatura en desarrollo de software de la Universidad Gaston Dachary.
+- :seedling: Actualmente soy estudiante en la tecnicatura universitaria en desarrollo de software, en la Universidad Gaston Dachary.
 - :computer: linea de codigo mas usada `git commit -m "first commit"`.
 - 🤔 En busqueda activa.
 
